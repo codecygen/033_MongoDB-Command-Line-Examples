@@ -115,6 +115,6 @@ db.articles.find(
 
 For example if the result seems unreadable, you can use pretty() method.
 
+```
 db.articles.find().pretty()
-
-End.
+```
